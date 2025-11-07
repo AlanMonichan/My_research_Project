@@ -1,5 +1,10 @@
 # AI-Powered Virtual Labs for Engineering Education
-Zenodo. [https://doi.org/10.5281/zenodo.17553826](https://doi.org/10.5281/zenodo.17553826)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17553826.svg)](https://doi.org/10.5281/zenodo.17553826)
+
+This repository contains research and presentation materials for the project *AI-Powered Virtual Labs for Engineering Education*.  
+The research focuses on integrating Artificial Intelligence with 3D virtual laboratories to enhance engineering education.
+
 ## Overview
 This project presents a research study and presentation on the use of Artificial Intelligence (AI) in developing virtual laboratories for engineering education. The goal is to enhance interactivity, personalization, and accessibility in learning environments through AI-driven simulations.
 
